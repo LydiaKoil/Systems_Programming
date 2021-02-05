@@ -36,7 +36,7 @@ struct bloom * bloom_new(int size)
 
 }
 
-// check to see if a string is in the setyour assignment will be graded by the instructor/TAs and t
+// check to see if a string is in the set
 int bloom_lookup(struct bloom * this, char * item)
 {
 	int hash_val_1=hash_string(item,BLOOM_HASH1,this->size);
