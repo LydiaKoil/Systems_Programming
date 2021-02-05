@@ -1,8 +1,5 @@
-# Lab 6 & 7: Huffman coding
+# Huffman coding
 
-## Submission
-You only need to submit bitfile.c, huff.c, bitfile.h and huff.h on Submitty.  The test 
-cases prefixed with "Default" on Submitty are provided to you.
 
 ## Note
 If you are on a Unix system you can view the binary coding of your files with "xxd -b <file>"
